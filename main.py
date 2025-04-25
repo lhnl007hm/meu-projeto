@@ -21,6 +21,7 @@ if __name__ == "__main__":
     classificacao = classificar_imc(imc)
     
     print(f"Seu IMC é {imc:.2f} - {classificacao}")
+    print("Boa noite cinderela!!!")
 
 
     
